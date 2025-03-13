@@ -5,6 +5,8 @@ Um aplicativo web simples para gerenciar e sortear amigos secretos. Desenvolvido
 Exemplo do App:
 ![Screenshot do App](assets/screenshot.png)
 
+Link do App no Github: https://andreegidio.github.io/challenge-amigo-secreto/
+
 Funcionalidades:
 
 - Adicionar Participantes: Cadastre os nomes dos amigos que participarão do sorteio.
