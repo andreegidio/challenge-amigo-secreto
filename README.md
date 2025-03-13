@@ -29,12 +29,11 @@ Como Usar:
 
 Estrutura do Projeto:
  challenge-amigo-secreto/
-- index.html          # Estrutura principal da página
-- assets/
--       └──           # Arquivos das imagens
-- styles.css          # Estilos da aplicação
-- app.js              # Lógica de funcionamento
-- README.md           # Este arquivo
+- index.html        # Estrutura principal da página
+- assets/           # Arquivos das imagens
+- styles.css        # Estilos da aplicação
+- app.js            # Lógica de funcionamento
+- README.md         # Este arquivo
 
 Tecnologias Utilizadas:
 -----------------------
