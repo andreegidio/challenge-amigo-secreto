@@ -27,8 +27,8 @@ Como Usar:
 - Quando todos os participantes estiverem na lista, clique no botão "Sortear Amigo".
 - O sistema irá escolher um amigo aleatoriamente e destacá-lo na página.
 
-Estrutura do Projeto:
- challenge-amigo-secreto/
+Estrutura do Projeto: challenge-amigo-secreto/
+----------------------------------------------
 - index.html        # Estrutura principal da página
 - assets/           # Arquivos das imagens
 - styles.css        # Estilos da aplicação
